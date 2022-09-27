@@ -104,7 +104,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/_assets/template/slider.html'); ?>
                                 <tr><td>SAT</td><td>10 am - 4:00 pm</td></tr>
                                 <tr><td>SUN</td><td>Closed</td></tr>
                             </tbody></table>
-                        </div>
+                        </div>Z
                     </div>
                 </div>                
             </div>
