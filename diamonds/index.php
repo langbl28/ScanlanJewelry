@@ -1,6 +1,6 @@
 <?php $title="Contact Us";
-include ($_SERVER['DOCUMENT_ROOT'] . '/_assets/template/head.php');
-include ($_SERVER['DOCUMENT_ROOT'] . '/_assets/template/header.html'); ?>
+include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/head.php');
+include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
 
     <div id="contact-form">
         <div class="container">
@@ -16,4 +16,4 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/_assets/template/header.html'); ?>
             </div>
         </div>
     </div>
-<?php include ($_SERVER['DOCUMENT_ROOT'] . '/_assets/template/footer.html'); ?>
+<?php include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/footer.html'); ?>
