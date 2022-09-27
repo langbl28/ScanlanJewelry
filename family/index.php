@@ -21,7 +21,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
                     <div class="col-md-12">
                         <div class="bio">
                             <div class="col-md-4">
-                                <img src="/assets/img/judy.jpg" alt="" />
+                                <img href="assets/img/judy.jpg" alt="" />
                             </div>
                             <div class="col-md-8">
                                 <h5>Judy Scanlan</h5>
@@ -33,7 +33,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
                     <div class="col-md-12">
                         <div class="bio">
                             <div class="col-md-4">
-                                <img src="/assets/img/diane.jpg" alt="" />
+                                <img href="assets/img/diane.jpg" alt="" />
                             </div>
                             <div class="col-md-8">
                                 <h5>Diana Menne</h5>
@@ -44,7 +44,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
                     <div class="col-md-12">
                         <div class="bio">
                             <div class="col-md-4">
-                                <img src="/assets/img/wendy.jpg" alt="" />
+                                <img href="assets/img/wendy.jpg" alt="" />
                             </div>
                             <div class="col-md-8">
                                 <h5>Wendy Knight</h5>
@@ -56,7 +56,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
                     <div class="col-md-12">
                         <div class="bio">
                             <div class="col-md-4">
-                                <img src="/assets/img/jamie.jpg" alt="" />
+                                <img href="assets/img/jamie.jpg" alt="" />
                             </div>
                             <div class="col-md-8">
                                 <h5>Jamie Knight </h5>
@@ -68,7 +68,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
                     <div class="col-md-12">
                         <div class="bio">
                             <div class="col-md-4">
-                                <img src="/assets/img/probts.jpg" alt="" />
+                                <img href="assets/img/probts.jpg" alt="" />
                             </div>
                             <div class="col-md-8">
                                 <h5>Rollie Probts</h5>
@@ -80,7 +80,7 @@ include ($_SERVER['DOCUMENT_ROOT'] . '/assets/template/header.html'); ?>
                 <div class="col-md-4">
                 <div class="nineteen">
                         <h5>Where it All Started</h5>
-                        <img style="border-radius: 0; max-width: 100%;"src="/assets/img/scanlan-1903.jpg">
+                        <img style="border-radius: 0; max-width: 100%;"href="assets/img/scanlan-1903.jpg">
                         <p>First founded in 1903, we, the Scanlan family, have nurtured and grown the business from on the road watch repairs in a horse and buggy, to the fine establishment it is today.</P>
                     </div>
                     <h4>Contact Us</h4>
